@@ -1,5 +1,3 @@
-# gpt-from-scratch
- character-level GPT language model implemented from scratch in PyTorch, based on Andrej Karpathy's 'Zero to Hero' series.
 # مدل زبان GPT بر پایه معماری Transformer
 
 این پروژه یک پیاده‌سازی ساده از یک مدل زبان GPT در سطح کاراکتر (character-level) است که از ابتدا با استفاده از PyTorch ساخته شده است. این کد بر اساس دوره آموزشی "Neural Networks: Zero to Hero" توسط Andrej Karpathy نوشته شده است.
